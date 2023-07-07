@@ -4,20 +4,8 @@
 <br>Пару слов о себе
 <br>Давным давно был бизнес-аналитиком.
 <br> Занимался разработкой баз данных и внедрением CRM систем.<br>
----
-[Сдесь представленны проекты выполненные в рамках обучения Яндекс Практикум по специальности Data Science.](yandex_practicum/README.md)
 
----
-<div> <img src="dr1.png" width="180" height="130">
-<img src="dr2.png" width="180" height="130">
-<img src="d2.png" width="180" height="130">
-<img src="d2_2.png" width="180" height="130"> 
-
-<h3><b>Свяжитесь со мной</b></h3>
-<div id="header" align="left">
-<a href = "https://t.me/TrollenGoblinson"><img src= "https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="50"/></a>
-</div>
-
+[Сдесь представленны проекты выполненные в рамках обучения в Яндекс Практикум по специальности Data Science.](yandex_practicum/README.md)
 
 <!--
 **TrollenGoblinson/TrollenGoblinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
