@@ -14,7 +14,8 @@
 <img src="d2_2.png" width="180" height="130"> 
   
 ---
-<h3><b>Хакатон</b></h3>
+[Хакатон Prosept_23-08-2023](https://github.com/TrollenGoblinson/Prosept_23-08-2023)
+
 <img src="Frame 123.png" width="180" height="130"> 
 
 <h3><b>Свяжитесь со мной</b></h3>
