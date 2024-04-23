@@ -11,7 +11,7 @@ Data scientist & data analyst
 
 ---
 
-[ООО Персепт Prosept_23.11-08.12-2023](https://github.com/TrollenGoblinson/Prosept_23-08-2023)
+[ООО Просепт Prosept_23.11-08.12-2023](https://github.com/TrollenGoblinson/Prosept_23-08-2023)
 
 <img src="Frame 123_1.png" width="180" height="130"> 
 
