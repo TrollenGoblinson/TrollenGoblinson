@@ -2,12 +2,12 @@
 Data scientist & data analyst
 ---
 Я выпускник Яндекс Практикума по специальности Data Science. 
-<br>Пару слов о себе
 <br>Ранее был бизнес-аналитиком.
 <br> Занимался разработкой баз данных и внедрением CRM систем. 
 <br>Сейчас занимаюсь аналитикой данных и машинным обучением.<br>
+
 ---
-<b>Здесь представлены коммерческие проекты</b>
+<b>Здесь представлены некоторые коммерческие проекты</b>
 
 ---
 МТС True Tech Hack
@@ -15,7 +15,8 @@ Data scientist & data analyst
 <img src="mts.png" width="100" height=""> 
 
 ---
-[ООО Персепт Prosept_23.11-08.12-2023](https://github.com/TrollenGoblinson/Prosept_23-08-2023)
+
+[ООО Просепт Prosept_23.11-08.12-2023](https://github.com/TrollenGoblinson/Prosept_23-08-2023)
 
 <img src="Frame 123_1.png" width="180" height="130"> 
 
