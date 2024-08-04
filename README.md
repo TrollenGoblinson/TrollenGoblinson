@@ -12,21 +12,26 @@ Data scientist & data analyst
 ### [Real-life Challenges](https://github.com/TrollenGoblinson/Real-life_Challenges)
 <b>Здесь представлены некоторые коммерческие проекты</b>
 -->
----
+<!--
 <div style="display: flex; flex-wrap: wrap; gap: caption;">
 <div> <img src="mts.png" style="height: 200px">
     <figcaption>МТС True Tech Hack</figcaption>
     </div>
 <div>
-<img src="Frame 123_2.png" style="height: 200px">
+<img src="Frame123_2.png" style="height: 200px">
 <figcaption><a href='https://github.com/TrollenGoblinson/Prosept_23-08-2023'>ООО Просепт Prosept_23.11-08.12-2023</a></figcaption></div>
 </div>
+-->
 
-    
+<div> 
+    <img src="mts.png" width="" height="130">
+    <img src="Frame123_2.png" width="180" height="130">
+</div>
+
 ---
+
 [Здесь представлены проекты выполненные в рамках обучения Яндекс Практикум по специальности Data Science.](https://github.com/TrollenGoblinson/yandex_practicum.git)
 
----
 <div> <img src="dr1.png" width="180" height="130">
 <img src="dr2.png" width="180" height="130">
 <img src="d2.png" width="180" height="130">
