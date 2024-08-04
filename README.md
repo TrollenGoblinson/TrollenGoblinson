@@ -1,3 +1,4 @@
+<!-- main -->
 #  👋 Приветствую! Я Сергей!  
 Data scientist & data analyst
 ---
@@ -7,19 +8,21 @@ Data scientist & data analyst
 <br>Сейчас занимаюсь аналитикой данных и машинным обучением.<br>
 
 ---
+<!--
+### [Real-life Challenges](https://github.com/TrollenGoblinson/Real-life_Challenges)
 <b>Здесь представлены некоторые коммерческие проекты</b>
-
+-->
 ---
-МТС True Tech Hack
+<div style="display: flex; flex-wrap: wrap; gap: caption;">
+<div> <img src="mts.png" style="height: 200px">
+    <figcaption>МТС True Tech Hack</figcaption>
+    </div>
+<div>
+<img src="Frame 123_2.png" style="height: 200px">
+<figcaption><a href='https://github.com/TrollenGoblinson/Prosept_23-08-2023'>ООО Просепт Prosept_23.11-08.12-2023</a></figcaption></div>
+</div>
 
-<img src="mts.png" width="100" height=""> 
-
----
-
-[ООО Просепт Prosept_23.11-08.12-2023](https://github.com/TrollenGoblinson/Prosept_23-08-2023)
-
-<img src="Frame 123_1.png" width="180" height="130"> 
-
+    
 ---
 [Здесь представлены проекты выполненные в рамках обучения Яндекс Практикум по специальности Data Science.](https://github.com/TrollenGoblinson/yandex_practicum.git)
 
