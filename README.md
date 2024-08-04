@@ -25,7 +25,7 @@ Data scientist & data analyst
 
 <div> 
     <img src="mts.png" width="" height="130">
-    <img src="Frame123_2.png" width="180" height="130">
+    <img src="Frame123_1.png" width="180" height="130">
 </div>
 
 ---
