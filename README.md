@@ -20,7 +20,7 @@
 - Ранее работал бизнес-аналитиком, занимаясь разработкой баз данных и внедрением CRM систем.
 - Выпускник Яндекс Практикума по специальности Data Science.
 
----
+---11111
 
 ### [Real-life Challenges](https://github.com/TrollenGoblinson/Real-life_Challenges)
 
