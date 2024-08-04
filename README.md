@@ -33,7 +33,7 @@
     
 ---
 
-[Здесь представлены проекты выполненные в рамках обучения Яндекс Практикум по специальности Data Science.](https://github.com/TrollenGoblinson/yandex_practicum.git)
+### [Здесь представлены проекты выполненные в рамках обучения Яндекс Практикум по специальности Data Science.](https://github.com/TrollenGoblinson/yandex_practicum.git)
 
 ---
 <div> <img src="dr1.png" width="180" height="130">
